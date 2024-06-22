@@ -17,6 +17,7 @@ tools available in 1986.
 ## Software Requirements
 * [Laser Genius Assembler by Ocean](https://commodore.software/downloads/download/50-assemblers/13911-laser-genius-assembler).
     * You can use any assembler you are familiar with, but this Article will go into detail using Laser Genius.
+    * [The manual for this assembler can be found here.](https://commodore.software/downloads/download/211-application-manuals/13910-laser-genius-assembler-manual)
 * [Koala Images Disk 1](https://commodore.software/downloads/download/573-graphics-and-pictures/16340-koala-pictures-1)
 * KoalaPainter is **not** required.  But if you are curious, look for it on the internet, download it and check it out.
 
